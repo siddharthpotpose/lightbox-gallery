@@ -1,0 +1,26 @@
+/* avialabe */
+
+.available {
+    height: 100%;
+    width: 100%;
+    background-image: url('images/pattern.png');
+    padding-bottom: 20px;
+}
+
+.under-1 {
+
+    position: relative;
+    left: 38%;
+}
+
+h5:hover{
+    color: white;
+}
+.card:hover {
+    background-color: blueviolet;
+    color: white;
+}
+
+/* ----------------------------- */
+
+/* slider  */
